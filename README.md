@@ -12,5 +12,12 @@
 | **SQL** | ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | 집계 함수, JOIN 및 서브쿼리 최적화 |
 ---
 
+## 🎯 Goals
+
+자료구조 및 알고리즘 문제 해결 능력 향상
+
+코딩 테스트 대비 문제 풀이 경험 축적
+
+SQL 데이터 처리 능력 향상
 
 
