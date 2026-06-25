@@ -7,7 +7,6 @@ class Solution {
             answer[num] = i;
             num++;
         }
-        
         return answer;
     }
 }
