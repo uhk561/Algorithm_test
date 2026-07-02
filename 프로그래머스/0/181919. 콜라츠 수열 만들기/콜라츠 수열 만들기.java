@@ -29,6 +29,7 @@ class Solution {
             answer[idx] = n;
             idx++;
         }
+        
         return answer;
     }
 }
