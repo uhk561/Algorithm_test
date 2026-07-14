@@ -26,7 +26,6 @@ class Solution {
                 answer[i] = "X";
             }
         }
-        
         return answer;
     }
 }
