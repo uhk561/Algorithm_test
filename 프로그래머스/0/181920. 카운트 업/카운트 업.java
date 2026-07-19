@@ -7,6 +7,7 @@ class Solution {
             answer[idx] = i;
             idx++;
         }
+        
         return answer;
     }
 }
