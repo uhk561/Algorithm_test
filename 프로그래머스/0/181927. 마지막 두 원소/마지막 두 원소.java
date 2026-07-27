@@ -4,7 +4,6 @@ class Solution {
         
         int last = num_list[len - 1];
         int prev = num_list[len - 2];
-        
         int newValue;
         
         if (last > prev) {
