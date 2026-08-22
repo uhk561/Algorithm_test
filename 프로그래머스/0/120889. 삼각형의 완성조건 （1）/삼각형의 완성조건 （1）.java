@@ -3,6 +3,7 @@ class Solution {
         int answer = 0;
         int max = 0;
         int a = 0;
+        
         for(int i = 0; i < sides.length; i++) {
             if (max < sides[i]) {
                 max = sides[i];
