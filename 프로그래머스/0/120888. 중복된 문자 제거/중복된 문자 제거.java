@@ -9,7 +9,6 @@ class Solution {
                 answer += str;
             }
         }
-
         return answer;
     }
 }
