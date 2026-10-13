@@ -7,6 +7,7 @@ class Solution {
                 arr[i] = arr[i] * k;
             }
         }
+        
         return arr;
     }
 }
